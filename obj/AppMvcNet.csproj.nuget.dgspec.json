@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PREDATOR\\AppMvcNet\\AppMvcNet.csproj": {}
+    "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PREDATOR\\AppMvcNet\\AppMvcNet.csproj": {
+    "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PREDATOR\\AppMvcNet\\AppMvcNet.csproj",
+        "projectUniqueName": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj",
         "projectName": "AppMvcNet",
-        "projectPath": "C:\\Users\\PREDATOR\\AppMvcNet\\AppMvcNet.csproj",
+        "projectPath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj",
         "packagesPath": "C:\\Users\\PREDATOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PREDATOR\\AppMvcNet\\obj\\",
+        "outputPath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PREDATOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,34 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameWorkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.web.codegeneration.design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySql.Data.EntityFramework": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

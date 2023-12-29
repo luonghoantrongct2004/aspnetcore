@@ -1,0 +1,16 @@
+dotnet add package Microsoft.VisualStudio.web.codegeneration.design
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package MySql.Data.EntityFramework
+
+dùng migration 
+dotnet ef migrations add Init
+dotnet ef database update
+
+tạo area 
+dotnet aspnet-codegenerator area Database
+controller 
+dotnet aspnet-codegenerator controller -name DbManage -outDir Areas/Database/Controllers/ -namespace AppMvcNet.Areas.Database.Controllers

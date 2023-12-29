@@ -1,7 +1,27 @@
+using AppMvcNet;
+using AppMvcNet.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Đăng ký AppDbContext
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+    string? connectString = builder.Configuration.GetConnectionString("AppMVCConnectionStrings");
+    if (connectString != null)
+    {
+        // Sử dụng connectString nếu nó không null
+        options.UseSqlServer(connectString);
+    }
+    else
+    {
+        // Xử lý trường hợp chuỗi kết nối không tồn tại
+        throw new Exception("Chuỗi kết nối không được tìm thấy");
+    }
+});
 
 var app = builder.Build();
 
@@ -15,6 +35,8 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.AddStatusCodePage(); // tuy bien cac loi 400 - 599
 
 app.UseRouting();
 
