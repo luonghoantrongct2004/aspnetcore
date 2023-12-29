@@ -14,3 +14,6 @@ tạo area
 dotnet aspnet-codegenerator area Database
 controller 
 dotnet aspnet-codegenerator controller -name DbManage -outDir Areas/Database/Controllers/ -namespace AppMvcNet.Areas.Database.Controllers
+
+ dotnet aspnet-codegenerator controller -name Contact -namespace AppMvcNet.Areas.Contact.
+Controllers -m AppMvcNet.Models.Contacts.Contact -udl -dc AppMvcNet.Models.AppDbContext -outDir Areas/Contact/Controllers

@@ -1,7 +1,8 @@
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using AppMvcNet.Models.Contacts;
 using Microsoft.EntityFrameworkCore;
 
-namespace AppMvcNet.Models{
+namespace AppMvcNet.Models
+{
     public class AppDbContext : DbContext{
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
@@ -15,6 +16,7 @@ namespace AppMvcNet.Models{
         {
             base.OnModelCreating(modelBuilder);
         }
+        public DbSet<Contact> Contacts { get; set; }
     }
     
 }

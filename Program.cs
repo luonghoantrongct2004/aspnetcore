@@ -1,5 +1,5 @@
-using AppMvcNet;
 using AppMvcNet.Models;
+using AppMvcNet.Status;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -36,7 +36,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
-app.AddStatusCodePage(); // tuy bien cac loi 400 - 599
+//app.AddStatusCodePage(); // tuy bien cac loi 400 - 599
 
 app.UseRouting();
 

@@ -1,7 +1,7 @@
 using System.Net;
 using Microsoft.AspNetCore.Http;
 
-namespace AppMvcNet{
+namespace AppMvcNet.Status{
     public static class AppExtends{
         public static void AddStatusCodePage(this IApplicationBuilder app){
             app.UseStatusCodePages(appError => {
