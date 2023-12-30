@@ -8,10 +8,12 @@ using Microsoft.EntityFrameworkCore;
 using AppMvcNet.Models;
 using Microsoft.AspNetCore.Authorization;
 using ContactModel = AppMvcNet.Models.Contacts.Contact;
+using App.Data;
 
 namespace AppMvcNet.Areas.Contact.Controllers
 {
     [Area("Contact")]
+    [Authorize(Roles =RoleName.Administrator)]
     public class ContactController : Controller
     {
         private readonly AppDbContext _context;

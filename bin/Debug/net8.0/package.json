@@ -1,0 +1,22 @@
+{
+  "name": "appmvcnet",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000s\u0000p\u0000n\u0000e\u0000t\u0000c\u0000o\u0000r\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hoantrong",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-less": "^5.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "rimraf": "^5.0.5"
+  }
+}

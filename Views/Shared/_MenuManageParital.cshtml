@@ -1,13 +1,29 @@
-<div class="dropdown">
-    <a class="btn btn-outline-danger dropdown-toggle" href="#" id="manageDropdownMenu" data-bs-toggle="dropdown">
-        Manage
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="manageDropdownMenu">
-        <li>
-            <a class="dropdown-item" asp-controller="DbManage" asp-action="Index" asp-area="Database">Database</a>
-        </li>
-        <li>
-            <a class="dropdown-item" asp-controller="Contact" asp-action="Index" asp-area="Contact">Quản lí liên hệ</a>
-        </li>
-    </ul>
-</div>
+@using Microsoft.AspNetCore.Authorization
+
+@inject IAuthorizationService authorizationService
+
+@{
+    var result = await authorizationService.AuthorizeAsync(this.User, "ViewManageMenu");
+}
+@if (result.Succeeded)
+{
+    <div class="dropdown">
+        <a class="btn btn-outline-danger dropdown-toggle" href="#" id="manageDropdownMenu" data-bs-toggle="dropdown">
+            Manage
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="manageDropdownMenu">
+            <li>
+                <a class="dropdown-item" asp-controller="DbManage" asp-action="Index" asp-area="Database">Database</a>
+            </li>
+            <li>
+                <a class="dropdown-item" asp-controller="Contact" asp-action="Index" asp-area="Contact">Quản lí liên hệ</a>
+            </li>
+            <li>
+                <a class="dropdown-item" asp-controller="Role" asp-action="Index" asp-area="Identity">Quản lí Role</a>
+            </li>
+            <li>
+                <a class="dropdown-item" asp-controller="User" asp-action="Index" asp-area="Identity">Quản lí User</a>
+            </li>
+        </ul>
+    </div>
+}

@@ -225,7 +225,11 @@ C:\Users\PREDATOR\AppMvcNet\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Wind
 C:\Users\PREDATOR\AppMvcNet\obj\Debug\net8.0\AppMvcNet.csproj.AssemblyReference.cache
 C:\Users\PREDATOR\AppMvcNet\obj\Debug\net8.0\AppMvcNet.csproj.CopyComplete
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\appsettings.identity.json
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\appsettings.json
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\libman.json
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\package-lock.json
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\package.json
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\AppMvcNet.staticwebassets.runtime.json
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\AppMvcNet.exe
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\AppMvcNet.deps.json
@@ -234,8 +238,19 @@ C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\AppMvcNet.dl
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\AppMvcNet.pdb
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\MailKit.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.Build.dll
@@ -277,6 +292,7 @@ C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.Vi
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\MimeKit.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\NuGet.Common.dll
@@ -295,6 +311,7 @@ C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\System.Compo
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\System.Data.SqlClient.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\System.Memory.Data.dll
@@ -449,6 +466,11 @@ C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
@@ -458,6 +480,7 @@ C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.Ge
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.AssemblyInfoInputs.cache
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.AssemblyInfo.cs
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.RazorAssemblyInfo.cache
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.RazorAssemblyInfo.cs
@@ -478,5 +501,3 @@ C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\refint\AppMv
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.pdb
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\AppMvcNet.genruntimeconfig.cache
 C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\obj\Debug\net8.0\ref\AppMvcNet.dll
-C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
-C:\Users\PREDATOR\OneDrive\Tài liệu\AppMvcNet\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
