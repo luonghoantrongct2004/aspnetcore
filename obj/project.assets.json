@@ -10094,11 +10094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\appmvcnet\\AppMvcNet.csproj",
+      "projectUniqueName": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\AppMvcNet.csproj",
       "projectName": "AppMvcNet",
-      "projectPath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\appmvcnet\\AppMvcNet.csproj",
+      "projectPath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\AppMvcNet.csproj",
       "packagesPath": "C:\\Users\\PREDATOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\appmvcnet\\obj\\",
+      "outputPath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PREDATOR\\AppData\\Roaming\\NuGet\\NuGet.Config",

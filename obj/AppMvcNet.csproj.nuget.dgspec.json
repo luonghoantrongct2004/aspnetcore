@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj": {}
+    "c:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\AppMvcNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj": {
+    "c:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\AppMvcNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj",
+        "projectUniqueName": "c:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\AppMvcNet.csproj",
         "projectName": "AppMvcNet",
-        "projectPath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj",
+        "projectPath": "c:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\AppMvcNet.csproj",
         "packagesPath": "C:\\Users\\PREDATOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\obj\\",
+        "outputPath": "c:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PREDATOR\\AppData\\Roaming\\NuGet\\NuGet.Config",

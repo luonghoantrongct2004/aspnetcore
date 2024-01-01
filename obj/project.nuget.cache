@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBwrQwuEptvmCOmYX394PQX4eZUSh4fwQmrfm0ao3H0R5Lka7p3OllQNPktuoP7vGYM3yZGchZHyGmf0K09lWg==",
+  "dgSpecHash": "RfytBqIij1bdb4+GYVcDIo/CrftKQu1LxYDOjWziXuRot9OEfTBtKraoQSBuAel2jSaj2ffzBOIwTP1e5nhmXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\AppMvcNet\\AppMvcNet.csproj",
+  "projectFilePath": "c:\\Users\\PREDATOR\\OneDrive\\Tài liệu\\aspnetcore\\AppMvcNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PREDATOR\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

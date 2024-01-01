@@ -25,8 +25,13 @@ namespace AppMvcNet.Models
                     entityType.SetTableName(tableName.Substring(6));
                 }
             }
+            modelBuilder.Entity<Category>(entity =>
+            {
+                entity.HasIndex(c => c.Slug);
+            });
         }
         public DbSet<Contact> Contacts { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
     
 }
